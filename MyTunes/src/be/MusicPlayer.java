@@ -11,5 +11,39 @@ package be;
  */
 public class MusicPlayer
 {
+    /**
+     * Play current song
+     */
+    public void Play()
+    {
+        
+        
+        
+    }
     
+    /*
+    *Pauses current song
+    */
+    public void Pause()
+    {
+        
+    }
+    
+    
+    /**
+     * Skip current song
+     */       
+    public void NextSong()
+    {
+        
+    }        
+    /**
+     * Plays previous song
+     */
+    public void PreviousSong()
+    {
+        
+    }
+
+
 }
